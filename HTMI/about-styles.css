@@ -1,0 +1,20 @@
+div {
+    background: linear-gradient(135deg, #12167f 0%, #e00bd5 100%);
+    border-radius: 8px;
+    padding: 40px;
+    max-width: 600px;
+    margin: 50px auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+font-family: 'helvetica', sans-serif;
+    color: rgb(106, 28, 84);
+    text-align: center;
+
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 18px;
+    color:rgb(44, 6, 44)
+}

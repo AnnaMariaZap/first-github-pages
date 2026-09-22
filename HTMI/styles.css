@@ -1,0 +1,39 @@
+/*p, h5, h6 {
+    color:darkblue;
+    font-size: 20px;
+    font-family: helvetica;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    color: darkblue;
+}
+
+h5 {
+    color: red;
+}*/
+body {
+    background:lightcoral
+}
+
+.card {
+    background: #926161;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.custom-button {
+    background-color: #c14f7e;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.black-ops-one-regular {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
